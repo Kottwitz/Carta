@@ -1,0 +1,26 @@
+/* Estilo para o header */
+header {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    padding: 20px 0;
+    border-bottom: 2px solid #ccc;
+}
+
+/* Estilo para o parágrafo dentro da div */
+div p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    margin: 20px 0;
+}
+
+/* Estilo para o footer */
+footer {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: right;
+    padding: 10px 0;
+    border-top: 2px solid #ccc;
+}
